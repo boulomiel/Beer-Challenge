@@ -25,7 +25,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String BAR_API = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=32.0853,34.7818&rankby=distance&keyword=bar&key=AIzaSyDBr8p1z9WmkqsNx_gqteSSTMtjCh4P-KU";
+    public static final String BAR_API = "HIDDEN";
     public static  final String USERS = "users";
 
     private DatabaseReference mRef ;
